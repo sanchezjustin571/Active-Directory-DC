@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Active Directory, Account Management, Security Policy Enforcement (Azure)</h1>
 This project demonstrates hands on implementation of user account management and security policy enforcement within an Active Directory environment using Windows Server.
 Core administrative tasks included configuring account lockout policies through Group Policy, managing user account states, and resolving authentication related incidents such as account lockouts and credential resets.
 
