@@ -40,10 +40,11 @@ Assuming our VM does not have Active Directory installed, we will install via th
 ## Adding a "Client" VM to the domain
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1080" height="353" alt="image" src="https://github.com/user-attachments/assets/8d6adf25-103e-45c0-a705-4e7b505617d4" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In a previous session, we already joined "Client" VM to the domain. This was done by setting the VM's DNS settings to our Domain Controllers private I.P. address
 </p>
 <br />
 
