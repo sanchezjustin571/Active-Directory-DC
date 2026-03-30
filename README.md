@@ -33,7 +33,7 @@ Core administrative tasks included configuring account lockout policies through 
 <img width="1496" height="799" alt="image" src="https://github.com/user-attachments/assets/40944d50-b09b-4a97-92fe-a89c0a799a8d" />
 </p>
 <p>
-Assuming our Domain Controller does not have Active Directory installed, we will install via the server manager.
+Assuming our VM does not have Active Directory installed, we will install via the server manager. Once installed promote this VM to Domain Controller through server manager.
 </p>
 <br />
 
