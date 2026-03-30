@@ -74,10 +74,11 @@ Group Policies can be used to control users and computers behavior across the do
 ## Unlocking a locked out account
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="782" height="569" alt="image" src="https://github.com/user-attachments/assets/63acce77-5b3e-451a-a7ed-e51f14be3f3f" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To unlock an account, simply go to active directory users and computers. Find and select the user that has requested assistance with a lockout. Under the properties of this users, you will go to account. Here you will see the notification stating that the user is in fact locked out. You must only check the box that says "Unlock Account". Depending on company policy you may want to force a password change, or any other condition.
 </p>
 <br />
 
