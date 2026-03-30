@@ -37,6 +37,8 @@ Assuming our VM does not have Active Directory installed, we will install via th
 </p>
 <br />
 
+## Adding a "Client" VM to the domain
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
