@@ -82,6 +82,8 @@ To unlock an account, simply go to active directory users and computers. Find an
 </p>
 <br />
 
+## Managing a users account
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
