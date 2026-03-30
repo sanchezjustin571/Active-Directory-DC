@@ -19,7 +19,7 @@ Core administrative tasks included configuring account lockout policies through 
 - Windows Server 2022
 - Windows 10
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Objectives</h2>
 
 - Connect "Client" to DC
 - Set lockout policies
