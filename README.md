@@ -71,6 +71,8 @@ Group Policies can be used to control users and computers behavior across the do
 </p>
 <br />
 
+## Unlocking a locked out account
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
