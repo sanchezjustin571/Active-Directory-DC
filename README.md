@@ -7,7 +7,7 @@ This project demonstrates hands on implementation of user account management and
 Core administrative tasks included configuring account lockout policies through Group Policy, managing user account states, and resolving authentication related incidents such as account lockouts and credential resets.
 
 
-## Objectives
+## Environments and Technologies Used
 
 - Microsoft Azure
 - Remote Desktop
