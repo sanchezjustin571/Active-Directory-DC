@@ -21,7 +21,6 @@ Core administrative tasks included configuring account lockout policies through 
 
 <h2>Objectives</h2>
 
-- Connect "Client" to DC
 - Set lockout policies
 - Simulate account lockout
 - Simulate account lockout resolution
