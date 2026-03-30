@@ -21,10 +21,10 @@ Core administrative tasks included configuring account lockout policies through 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Connect "Client" to DC
+- Set lockout policies
+- Simulate account lockout
+- Simulate account lockout resolution
 
 <h2>Deployment and Configuration Steps</h2>
 
