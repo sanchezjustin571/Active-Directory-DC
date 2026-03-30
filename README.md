@@ -3,10 +3,11 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This project demonstrates hands on implementation of user account management and security policy enforcement within an Active Directory environment using Windows Server.
+Core administrative tasks included configuring account lockout policies through Group Policy, managing user account states, and resolving authentication related incidents such as account lockouts and credential resets.
 
 
-<h2>Environments and Technologies Used</h2>
+## Objectives
 
 - Microsoft Azure
 - Remote Desktop
