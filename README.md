@@ -27,11 +27,13 @@ Core administrative tasks included configuring account lockout policies through 
 
 <h2>Deployment and Configuration Steps</h2>
 
+## Install Active Directory on Domain Controller
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1496" height="799" alt="image" src="https://github.com/user-attachments/assets/40944d50-b09b-4a97-92fe-a89c0a799a8d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assuming our Domain Controller does not have Active Directory installed, we will install via the server manager.
 </p>
 <br />
 
