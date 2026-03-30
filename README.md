@@ -44,7 +44,7 @@ Assuming our VM does not have Active Directory installed, we will install via th
 
 </p>
 <p>
-In a previous session, we already joined "Client" VM to the domain. This was done by setting the VM's DNS settings to our Domain Controllers private I.P. address
+In a previous session, we already joined "Client" VM to the domain. This was done by setting the VM's DNS settings to our Domain Controllers private I.P. address, and joining the domain through system settings.
 </p>
 <br />
 
