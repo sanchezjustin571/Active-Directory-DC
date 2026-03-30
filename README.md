@@ -56,7 +56,7 @@ You can verify that "Client" VM joined the DC through "Active Directory Users an
 </p>
 <br />
 
-## Unlocking a locked account
+## Group Policy
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
