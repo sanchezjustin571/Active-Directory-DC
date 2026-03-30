@@ -59,10 +59,15 @@ You can verify that "Client" VM joined the DC through "Active Directory Users an
 ## Group Policy
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1892" height="932" alt="image" src="https://github.com/user-attachments/assets/b1285f34-31b0-4685-af8e-e53aa3efa1f8" />
+<img width="1703" height="902" alt="image" src="https://github.com/user-attachments/assets/17010aea-335f-4530-9459-ed26e7aa2c02" />
+<img width="513" height="147" alt="image" src="https://github.com/user-attachments/assets/4b094cb3-847f-4bc2-949b-d6e747d3e0f6" />
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Group Policies can be used to control users and computers behavior across the domain. This ranges from security settings, computer configuration, user configuration, adminstrative templates, and much more. In this example we are only editing an existing policty to control number of attempted log ins before the account is locked out.
 </p>
 <br />
 
