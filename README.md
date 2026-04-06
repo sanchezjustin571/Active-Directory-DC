@@ -221,28 +221,35 @@ For this ticket we are going to say that the Status, Priority, Dept, and SLA are
 
 
 <p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+<img width="383" height="259" alt="image" src="https://github.com/user-attachments/assets/9cf37a73-5e45-4d79-a29e-0597be36a772" />
+
 </p>
 <p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+Once user identity has been verified. Open Active Directories Users and Computers. Expand to the Users folder, find the user, right click the user and select "Reset Password". Enter a new temporary password to allow the user to log back in. Require that the password be reset on next login if required by policy. If necessary, select "Unlock the User's Account".
 </p>
 <br />
 
 
 <p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+<img width="969" height="686" alt="image" src="https://github.com/user-attachments/assets/1cfd58cf-3467-46dc-83ff-4ae7a1d941db" />
+<img width="1147" height="799" alt="image" src="https://github.com/user-attachments/assets/8cfe7a0b-06e2-4599-85de-08277cc52661" />
+<img width="1006" height="886" alt="image" src="https://github.com/user-attachments/assets/0a705756-de72-4028-973f-fa927032b764" />
+
+
+
 </p>
 <p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+It is important to keep note in the system of what steps have been taken to correct the issue. This is useful in case you are unable to finish the ticket and someone else needs to take over. It is also good practice for accountability, and tracing. 
 </p>
 <br />
 
 
 <p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+<img width="1028" height="807" alt="image" src="https://github.com/user-attachments/assets/ff036688-21e2-4f7d-af16-698a3a27613e" />
+
 </p>
 <p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+Once you have confirmed that the issue has been resolved, you can mark the ticket as resolved, closed, or send off to review depending on company policy.
 </p>
 <br />
 
