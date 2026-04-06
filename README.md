@@ -200,9 +200,11 @@ Through Active Directory Users and Computers you can also disable, or re-enable 
 <p>
 <img width="596" height="90" alt="image" src="https://github.com/user-attachments/assets/4beda061-ebc6-46ab-bc5e-9dae62ff52eb" />
 
+<img width="1038" height="461" alt="image" src="https://github.com/user-attachments/assets/ec8b73b4-b2eb-4f5f-9cd5-d6103c15531a" />
+
 </p>
 <p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+For this first example I will be working a ticket in which a client or employee needs a password reset. First we will click ticket 833805 to open the ticket.
 </p>
 <br />
 
