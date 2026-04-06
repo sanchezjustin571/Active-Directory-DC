@@ -208,12 +208,14 @@ For this first example I will be working a ticket in which a client or employee 
 </p>
 <br />
 
-
 <p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+  <img width="1004" height="943" alt="image" src="https://github.com/user-attachments/assets/f186415e-830b-4574-b0b7-99acaa3f05d8" />
+
+</p>
+
 </p>
 <p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+For this ticket we are going to say that the Status, Priority, Dept, and SLA are all already correct. We need to verify user information and ensure we are not providing a password reset to someone who is not the actual user. This can be done via phone, teams, email, as well as other forms of communication. You will verify based on given authentication factors whether that be, Employee ID, Reset Questions, or whatever is previously determined by the company.
 </p>
 <br />
 
