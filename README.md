@@ -254,6 +254,53 @@ Once you have confirmed that the issue has been resolved, you can mark the ticke
 <br />
 
 
+## Correcting Ticket Status
+
+# In this example, an employee/client has submitted a ticket, however the ticket has been submitted incorrectly. This is going to be corrected quickly.
+
+
+<p>
+<img width="964" height="118" alt="image" src="https://github.com/user-attachments/assets/4843f885-b25b-4029-9b12-b69bedee1246" />
+<img width="989" height="862" alt="image" src="https://github.com/user-attachments/assets/badf4d62-b0a7-4258-b945-ac61616bc304" />
+<img width="1019" height="891" alt="image" src="https://github.com/user-attachments/assets/c2716df7-6938-42d2-955c-241aceab3d65" />
+
+
+
+
+</p>
+<p>
+As shown above, when karen got to work this morning, her entire department was unable to login to their online systems. Highlighted you can see that Karen submitted this under "General Inquiry" topic. Doing so has lowered the severity and therefor could impact the SLA. This is a severe problem that needs fixed right away.
+</p>
+<br />
+
+
+<p>
+<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+</p>
+<p>
+Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+</p>
+<br />
+
+
+<p>
+<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+</p>
+<p>
+Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+</p>
+<br />
+
+
+<p>
+<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+</p>
+<p>
+Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+</p>
+<br />
+
+
 <p>
 <img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
 </p>
