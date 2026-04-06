@@ -275,6 +275,11 @@ As shown above, when karen got to work this morning, her entire department was u
 
 
 <p><img width="961" height="480" alt="image" src="https://github.com/user-attachments/assets/bc452f74-bce3-458f-8c15-ed40c25d507b" />
+<img width="1008" height="569" alt="image" src="https://github.com/user-attachments/assets/c3731abb-557c-453a-8d14-32cc1f82c701" />
+<img width="1033" height="649" alt="image" src="https://github.com/user-attachments/assets/b772d73b-3e40-4ab0-9945-0855deea814c" />
+<img width="974" height="725" alt="image" src="https://github.com/user-attachments/assets/06b88121-e3b3-483b-a42a-bd8cce65c600" />
+<img width="955" height="743" alt="image" src="https://github.com/user-attachments/assets/bdaeedea-e3b3-4ccd-afd2-5155195fb8f4" />
+<img width="1003" height="411" alt="image" src="https://github.com/user-attachments/assets/d1162270-f1ef-41f6-90d3-e9857642087f" />
 
 
 </p>
