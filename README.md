@@ -274,11 +274,12 @@ As shown above, when karen got to work this morning, her entire department was u
 <br />
 
 
-<p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
+<p><img width="961" height="480" alt="image" src="https://github.com/user-attachments/assets/bc452f74-bce3-458f-8c15-ed40c25d507b" />
+
+
 </p>
 <p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+TO FIX THIS 123456
 </p>
 <br />
 
