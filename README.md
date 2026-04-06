@@ -280,6 +280,8 @@ As shown above, when karen got to work this morning, her entire department was u
 <img width="974" height="725" alt="image" src="https://github.com/user-attachments/assets/06b88121-e3b3-483b-a42a-bd8cce65c600" />
 <img width="955" height="743" alt="image" src="https://github.com/user-attachments/assets/bdaeedea-e3b3-4ccd-afd2-5155195fb8f4" />
 <img width="1003" height="411" alt="image" src="https://github.com/user-attachments/assets/d1162270-f1ef-41f6-90d3-e9857642087f" />
+<img width="1104" height="824" alt="image" src="https://github.com/user-attachments/assets/a0997855-92cc-4d4a-8d93-283c7185edf5" />
+
 
 
 </p>
