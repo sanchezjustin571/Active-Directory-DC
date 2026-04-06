@@ -286,52 +286,7 @@ As shown above, when karen got to work this morning, her entire department was u
 
 </p>
 <p>
-TO FIX THIS 123456
-</p>
-<br />
-
-
-<p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
-</p>
-<p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
-</p>
-<br />
-
-
-<p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
-</p>
-<p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
-</p>
-<br />
-
-
-<p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
-</p>
-<p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
-</p>
-<br />
-
-
-<p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
-</p>
-<p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
-</p>
-<br />
-
-
-<p>
-<img width="1678" height="870" alt="image" src="https://github.com/user-attachments/assets/20d1ab9e-b272-4de6-8910-c23a23ab4811" />
-</p>
-<p>
-Navigate to your "Virtual Networks" from the Microsoft Azure Portal. This can be done either by the search bar at the top, or the drop down menu on the left. Click "Create".
+To resolve this problem as quickly as we can we are going to correct the ticket information to reflect the truth of the matter. By clicking on the titles for things such as "Priority" "Department" etc you can update the information. In the given example i am going to update the "Priority" level to High, we also want to correct the SLA Plan to reflect the severity of the issue. In this example we are using Sev-A (highest level severity in the shown system). You also have the option if needed to transfer this ticket to a specific department, or even an individual. It is important to note all the work done on this ticket so that when it moves forward or is resolved the history can be traced. In this example we are going to assume ourselves as an entry level help desk personell without the authorization to correct this problem. By updating the ticket information and forwarding to the correct party I am making sure I am doing my part to resolve this ticket as quickly as possible.
 </p>
 <br />
 
